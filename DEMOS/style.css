@@ -1,0 +1,24 @@
+/* tag selector */
+body {
+  background-color: rgb(250, 223, 321);
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  color: green;
+}
+
+/* class selector */
+
+.text {
+  color: red;
+}
+
+/*id selector*/
+
+#header {
+  color: brown;
+}

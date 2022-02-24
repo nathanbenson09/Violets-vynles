@@ -1,0 +1,83 @@
+/* tags */
+header {
+  background-image: url(img/Records.jpg);
+  background-size: cover;
+  height: 300px;
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 100px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  position: center;
+}
+
+h1 {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: "Segoe UI", Verdana, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 16px;
+  color: white;
+}
+
+a:link {
+  color: #ef0354;
+}
+
+a:hover {
+  color: #9c538b;
+}
+
+/* class */
+
+.text {
+  color: white;
+}
+
+/* id */
+
+#ourselection {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background-color: #ef8354;
+  text-align: center;
+}
+
+#selling {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background-color: #0e7c7b;
+  text-align: center;
+}
+
+#livemusic {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background-color: #9c538b;
+  text-align: center;
+}
+
+#vynles {
+  width: 500px;
+}
